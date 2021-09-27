@@ -1,0 +1,9 @@
+name: HalloweenMobs
+version: '${project.version}'
+main: cz.lukynka.halloweenmobs.Main
+api-version: 1.17
+prefix: HalloweenMobs
+load: STARTUP
+authors: [ LukynkaCZE ]
+description: Adds chance to spawn special halloween mobs in your worlds!
+website: www.lukynka.cz

@@ -1,0 +1,30 @@
+#_    _       _ _                                __  __       _
+#| |  | |     | | |                              |  \/  |     | |
+#| |__| | __ _| | | _____      _____  ___ _ __   | \  / | ___ | |__  ___
+#|  __  |/ _` | | |/ _ \ \ /\ / / _ \/ _ | '_ \  | |\/| |/ _ \| '_ \/ __|
+#| |  | | (_| | | | (_) \ V  V |  __|  __| | | | | |  | | (_) | |_) \__ \
+#|_|  |_|\__,_|_|_|\___/ \_/\_/ \___|\___|_| |_| |_|  |_|\___/|_.__/|___/
+
+# Author: LukynkaCZE
+#         www.lukynka.cz
+
+#Config Version: 0.1
+
+#Thanks for using the plugin <3
+
+
+#Chance of ghost spawning (1 is minimum, 100 is maximum)
+#Set to 0 if you don't want ghosts spawning
+Ghost Spawn Chance: 50
+
+#Chance of grim reaper spawning (1 is minimum, 100 is maximum)
+#Set to 0 if you don't want grim reapers spawning
+Reaper Spawn Chance: 50
+
+#Chance of Headless Horseman spawning (1 is minimum, 100 is maximum)
+#Set to 0 if you don't want headless horsemans spawning
+Headless Horseman Spawn Chance: 30
+
+
+#For debugging and dev stuff, DON'T USE IF YOU DON'T UNDERSTAND
+Developer Mode: false
